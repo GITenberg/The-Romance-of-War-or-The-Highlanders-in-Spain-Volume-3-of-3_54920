@@ -1,0 +1,25 @@
+_repo: The-Romance-of-War-or-The-Highlanders-in-Spain-Volume-3-of-3_54920
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+description: ''
+gutenberg_issued: '2017-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain. Army. Gordon Highlanders -- Fiction'
+- GITenberg
+title: The Romance of War; or, The Highlanders in Spain, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/54920
