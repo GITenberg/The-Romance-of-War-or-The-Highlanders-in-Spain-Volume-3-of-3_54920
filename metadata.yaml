@@ -1,5 +1,8 @@
 _repo: The-Romance-of-War-or-The-Highlanders-in-Spain-Volume-3-of-3_54920
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54920-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8949'
     url: http://www.gutenberg.org/2009/agents/8949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54920#The-Romance-of-War-or-The-Highlanders-in-Spain-Volume-3-of-3
 gutenberg_issued: '2017-06-15'
 gutenberg_type: Text
 identifiers:
